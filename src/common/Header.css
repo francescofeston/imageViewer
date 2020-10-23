@@ -1,0 +1,39 @@
+
+
+nav{
+    background-color: #333;
+    color: white;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-brand{
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+  
+  .nav-search-box{
+    background-color: #ccc;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-right: 20px;
+  
+  }
+  
+  .nav-right{
+    display: flex;
+    
+  }
+  
+  
+  
+  
+  .profile-pic{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+  }
