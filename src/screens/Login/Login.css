@@ -1,0 +1,15 @@
+
+.login-card{
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .login-card input{
+    border:none;
+    outline: none;
+    border-bottom: 1px solid grey;
+    padding: 5px;
+    margin: 15px auto;
+    width: 100%;
+  }
+  
