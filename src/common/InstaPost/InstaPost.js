@@ -91,7 +91,7 @@ const InstaPost = ({ post, profilePic }) => {
 							<div>
 								<img
 									style={styles.profilePic}
-									src='https://lh3.googleusercontent.com/proxy/vOcfOfHYPAKQgLHePMiu8CCD1yx_K9AmcAN0dZt0dA1Xm-UKN4gvppLcwE-fKxByLmzkPfKEY_Qzp9yBcV0VG6ijNJhWYI1JrLU_b3roVtopjIsdgq0'
+									src={profilePic}
 									alt={username}
 								/>
 							</div>
